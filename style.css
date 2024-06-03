@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    text-align: center;
+    padding: 3rem;
+}
+.fparah .f1parah{
+    height: 450px;
+    cursor: pointer;
+    background: white;
+    padding-top: 5%;
+}
+.f1parah{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.fparah:hover {
+    color: none;
+}
+.f1parah:hover {
+    border: 2px solid rgb(35, 132, 19)
+}
+.icon{
+    display: flex;
+    padding-left: 35%;
+}
+body{
+    background: rgb(209, 222, 209);
+}
+.box{
+    text-align: center;
+    background: green;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.fparah1 .f2parah{
+    height: 500px;
+    cursor: pointer;
+    background: white;
+    padding-top: 5%;
+}
+.f2parah{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.fparah1:hover {
+    color: none;
+}
+.f2parah:hover {
+    border: 2px solid rgb(35, 132, 19)
+}
+.icon{
+    display: flex;
+    padding-left: 35%;
+}
+.btn{
+    width: 55%;
+}
