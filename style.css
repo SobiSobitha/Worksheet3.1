@@ -32,10 +32,10 @@ body{
 }
 .box{
     text-align: center;
-    background: green;
     width: 100%;
     align-items: center;
     justify-content: center;
+    height: 50%;
 }
 .fparah1 .f2parah{
     height: 500px;
@@ -60,4 +60,9 @@ body{
 }
 .btn{
     width: 55%;
+}
+.text-center{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
